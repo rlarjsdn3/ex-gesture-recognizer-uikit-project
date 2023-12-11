@@ -1,2 +1,10 @@
-# ex-gesture-recognizer-uikit-project
-제스처를 UIKit에서 구현하는 방법을 연습니다.
+# Ex-GestureRecognizer-UIKit-Poject
+## 🍎Overview
+`프로젝트` Ex-GestureRecognizer-UIKit-Poject <br>
+`게시일자` 2023년 12월 11일(월) <br>
+ 
+## 👩🏻‍💻Reference
+
+* J.D Gauchat, ⌜UIKit for Masterminds (iOS15)⌟, P.325~330
+
+
